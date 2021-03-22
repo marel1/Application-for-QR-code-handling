@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">QR_code-decode</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="generate_qr_code">Generate QR code</string>
+    <string name="todo">TODO</string>
+    <string name="choose_activity">Choose Activity!</string>
+    <string name="to_generator">To Generator</string>
+    <string name="to_scanner">To Scanner</string>
+    <string name="textview">TextView</string>
+    <string name="select_activity">Select Activity</string>
+    <string name="managed_to_read_the_code">Managed to read the code!</string>
+    <string name="the_result_is">The result is:</string>
+    <string name="share">Share</string>
+
+    <string-array name="Correction_level">
+        <item>M</item>
+        <item>L</item>
+        <item>Q</item>
+        <item>H</item>
+    </string-array>
+</resources>
